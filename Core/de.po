@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 20:37-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Core.cpp:27
+msgctxt "context"
+msgid "Core: Initializing "
+msgstr "Core: (German) Initialisierung "
+
+#: Core.cpp:44
+msgctxt "context"
+msgid "Core: Exiting "
+msgstr "Core: (German) Verlassen "
+
+#: Core.cpp:61
+msgctxt "context"
+msgid "Core: Reading in Image "
+msgstr "Core: (German) Lesen im Bild "
+
+#: Core.cpp:78
+msgctxt "context"
+msgid "Core: Updating Image "
+msgstr "Core: (German) Bild aktualisieren "
+
+#: Core.cpp:95
+msgctxt "context"
+msgid "Core: Writing Image to output "
+msgstr "Core: (German) Bild zur Ausgabe schreiben "

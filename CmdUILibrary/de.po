@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-28 21:05-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: CmdUI.cpp:27
+msgctxt "context"
+msgid "CmdUI: Initializing "
+msgstr "CmdUI: (German) Initialisierung "
+
+#: CmdUI.cpp:52
+msgctxt "context"
+msgid "CmdUI: Exiting "
+msgstr "CmdUI: (German) Verlassen "
+
+#: CmdUI.cpp:73
+msgctxt "context"
+msgid "CmdUI: Starting Command Loop "
+msgstr "CmdUI: (German) Befehlsschleife starten "
+
+#: CmdUI.cpp:90
+msgctxt "context"
+msgid "Select an option: "
+msgstr "(German) Wahle eine Option: "
+
+#: CmdUI.cpp:91
+msgctxt "context"
+msgid "1) Color Image "
+msgstr "(German) 1) Farbbild "
+
+#: CmdUI.cpp:92
+msgctxt "context"
+msgid "2) Draw box on Image "
+msgstr "(German) 2) Rahmen auf Bild Zeichnen "
+
+#: CmdUI.cpp:93
+msgctxt "context"
+msgid "3) Erase part of Image "
+msgstr "(German) 3) Loschen Sie einen Teil des Bildes "
+
+#: CmdUI.cpp:94
+msgctxt "context"
+msgid "4) Rotate Image "
+msgstr "(German) 4) Bild drehen "
+
+#: CmdUI.cpp:95
+msgctxt "context"
+msgid "5) Translate Image "
+msgstr "(German) 5) Bild ubersetzen "
+
+#: CmdUI.cpp:96
+msgctxt "context"
+msgid "6) Exit "
+msgstr "(German) 6) Ausgang "
